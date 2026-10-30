@@ -1,0 +1,9 @@
+﻿# TD generated build directories and local state
+**/*_Runs/
+**/td_project/log/
+**/.lock.f
+**/.dide/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
